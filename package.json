@@ -1,0 +1,21 @@
+{
+  "name": "abstractions",
+  "version": "1.0.0",
+  "description": "test 4/4/24",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
